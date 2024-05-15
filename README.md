@@ -1,5 +1,5 @@
 # R*X-iMoo-SystemPlus
-- 小天才系统优化模块(R*X-iMoo-SystemPlus)由chalk与R*X Wear论坛的面向小天才破解的组织R*X iMoo Team研发
+- 小天才系统优化模块(R\*X-iMoo-SystemPlus)由chalk与R\*X Wear论坛的面向小天才破解的组织R\*X iMoo Team研发
 
 # 作用
  - 通过userdebug解除非法安装限制；
